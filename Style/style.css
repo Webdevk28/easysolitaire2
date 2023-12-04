@@ -69,7 +69,7 @@ img {
 /* responsive size */
 @media (max-width: 1000px) {
     .mainPage .partHeader {
-        margin-top: 60px !important;
+        margin-top: 30px !important;
     }
 
     .partHeader,
